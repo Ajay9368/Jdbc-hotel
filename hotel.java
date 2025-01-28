@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.util.Scanner;
 import java.sql.Statement;
 import java.sql.ResultSet;
-
+\\You can just import whole SQL LIBRARY BY USING THE "*"
 
 
 public class hotel{
